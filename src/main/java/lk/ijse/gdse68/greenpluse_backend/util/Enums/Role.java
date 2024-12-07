@@ -1,0 +1,8 @@
+package lk.ijse.gdse68.greenpluse_backend.util.Enums;
+
+public enum Role {
+    MANAGER,
+    ADMINISTRATIVE,
+    SCIENTIST,
+    OTHER
+}
